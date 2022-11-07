@@ -12,6 +12,232 @@ body {
     width: 100%;
 }
 
+/*mariamis kodi*/
+.bigContainer {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+.topNav {
+    display: flex;
+    align-items: center;
+    /* padding: 0px; */
+    justify-content: space-around;
+    padding-bottom: 263px;
+    margin-left: 219px;
+    margin-right: 219px;
+
+
+
+}
+
+
+/*pirveli gverdi*/
+.box1 {
+
+    /* width: 100%; */
+    /* height: 800px; */
+    display: flex;
+    flex-direction: row;
+}
+
+.container1 {
+
+    /* width: 40%; */
+    /* height: 500px; */
+    padding-bottom: 263px;
+    /* padding-bottom: 442px; */
+
+}
+
+
+/*styleName: Header/H2;*/
+
+.headerH2 {
+    /* width: 656px; */
+    /* height: 154px; */
+
+    /* Header/H2 */
+    font-weight: 700;
+    font-size: 64px;
+    /* line-height: 77px; */
+    /* letter-spacing: -0.02em; */
+
+    color: #4F9CF9;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+    padding-bottom: 60px;
+}
+
+.cont2 {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+.paragraphP {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(79, 156, 249, 1);
+    padding-bottom: 24px;
+
+}
+
+
+.button {
+    margin-top: 130px;
+    background: #4F9CF9;
+
+}
+
+/*marjvenaa konteineri*/
+
+.container2 {
+    display: flex;
+
+    /* width: 60%;
+    height: 800px; */
+    padding-bottom: 200px;
+}
+
+.imgBox {
+
+    /* width: 824px;
+    height: 549px; */
+    background: #C4DEFD;
+
+}
+
+/*პირველი კონტეინერის დასასრული */
+
+/*
+  /* meore gverdi */
+.box2 {
+    display: flex;
+    /* width: 100%;
+    height: 600px; */
+    display: flex;
+    flex-direction: row;
+
+}
+
+/*meore konteineris marcxena mxare*/
+.container3 {
+    /* width: 50%;
+    height: 600x; */
+}
+
+/*imgBox* marjvena mxare*/
+.container4 {
+    /* width: 50%;
+    height: 600px; */
+    background-color: #C4DEFD;
+
+}
+
+
+.box3 {
+    /* width: 100%;
+    height: 800px; */
+    display: flex;
+    flex-direction: row;
+}
+
+/* marcxena mxare*/
+.container5 {
+    /* height: 661px;
+    width: 661px;
+    left: 35px;
+    top: 0px;
+    border-radius: 0px; */
+    padding-bottom: 168px;
+
+}
+
+/*imgBox*/
+.container6 {
+
+    /* width: 50%;
+    height: 600px; */
+    background-color: #C4DEFD;
+
+}
+
+
+.headerH1 {
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 700;
+    /* line-height: 87px; */
+    /* letter-spacing: -0.02em; */
+    text-align: left;
+    padding-bottom: 24px;
+
+
+}
+
+.box4 {
+    /* width: 100%;
+    height: 300px; */
+    display: flex;
+    flex-direction: column
+}
+
+.container7 {
+    /* width: 50%;
+    height: 600px; */
+    /* background-color: #C4DEFD; */
+    font-size: 72px;
+    font-weight: 700;
+    padding-bottom: 60px;
+}
+
+
+
+
+
+
+
+
+.meshvide {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.paragrapP2 {
+    /* padding-bottom: 60px; */
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.button4 {
+    padding-bottom: 60px;
+}
+
+
+/*tatukas kodi*/
 .sizes {
     font-size: 72px;
     font-weight: 700;
@@ -26,6 +252,7 @@ body {
 .headline {
     justify-content: center;
     text-align: center;
+    padding-top: 280px;
 }
 
 .headline1 {
